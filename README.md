@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://myreadme.vercel.app/api/embed/iojuedioe9rd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />](https://github-readme-stats.vercel.app/api?username=iojuedioe9rd)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iojuedioe9rd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
